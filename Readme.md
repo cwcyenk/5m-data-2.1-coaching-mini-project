@@ -34,16 +34,15 @@ Your goal is the following:
 - Make sure you provide **clear recommendations** that follow logically from your analyses and narrative and answer your data science problem.
 
 Some directions: 
-1. Business Context 
+1. Business Context / Data Science Problem
 - Problem statement
-Why it matters to the business
+- Why it matters
 2. Data Approach 
-- Data sources
-Key metrics analyzed
+- Data sources and scraping done
 3. Key Findings 
-- Visualization and Clear insight statements
+- Visualization and clear learnings 
 4. Recommendations 
-- 2-3 actionable recommendations
+- 2-3 actionable recommendations or conclusion
 - Expected business impact
 
 ---
