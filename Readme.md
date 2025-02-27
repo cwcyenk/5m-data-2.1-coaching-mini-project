@@ -4,7 +4,7 @@
 
 Your goal is the following:
 
-1. Collect data by performing web-scraping + data wrangling. Once you determine the source, make sure you are able to scape the website successfully
+1. Collect data by performing web-scraping + data wrangling. Once you determined the source, make sure you are able to scape the website successfully
 2. Formulate a data-science / business problem based on the data you have obtained, present your learnings and interesting takeway using appriopriate visualizations
 
 
